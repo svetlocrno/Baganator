@@ -1,4 +1,3 @@
------------------------------------------------------------------------
 Fork of the original [Baganator](https://github.com/Baganator/Baganator) on Github. Credit to [plusmouse](https://github.com/plusmouse) and anyone else who worked on the original. This is personal edit for my personal needs.
 -----------------------------------------------------------------------
 
